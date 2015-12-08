@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_background_color">#dcdee3</color>
+    <color name="theme_color">#03a9f0</color>
+
+    <color name="drawer_list_divider">#aaaaaa</color>
+    <color name="drawer_background_transparent">#1103a9f4</color>
+    <color name="tv_white">#ffffff</color>
+
+    <color name="stroke_black">#000000</color>
+    <color name="text_black">#333333</color>
+
+</resources>

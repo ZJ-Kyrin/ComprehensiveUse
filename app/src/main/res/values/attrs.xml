@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--主题背景色-->
+    <attr name="theme_background" format="reference|color" />
+
+    <attr name="theme_color" format="reference|color" />
+
+    <declare-styleable name="EditTextWithClearButton">
+        <attr name="text" format="string" />
+        <attr name="hint" format="string" />
+    </declare-styleable>
+
+</resources>
