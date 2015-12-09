@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\ProgramFiles\Android\AndroidStudioProjects\ComprehensiveUse\ExtendedCalendarView\assets"/></dataSet><dataSet config="debug"><source path="D:\ProgramFiles\Android\AndroidStudioProjects\ComprehensiveUse\ExtendedCalendarView\build-types\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\ProgramFiles\Android\AndroidStudioProjects\ComprehensiveUse\mylibrary\libs\ExtendedCalendarView\assets"/></dataSet><dataSet config="debug"><source path="D:\ProgramFiles\Android\AndroidStudioProjects\ComprehensiveUse\mylibrary\libs\ExtendedCalendarView\build-types\debug\assets"/></dataSet></merger>

@@ -6,4 +6,4 @@
     <item android:state_selected="true" android:color="#f3f3f3"/>
     <item android:color="#403838"/>
 </selector>
-<!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/ExtendedCalendarView/res/color/date_number_text_color.xml --><!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/ExtendedCalendarView/build/intermediates/bundles/debug/res/color/date_number_text_color.xml -->
+<!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/mylibrary/libs/ExtendedCalendarView/res/color/date_number_text_color.xml --><!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/mylibrary/libs/ExtendedCalendarView/build/intermediates/bundles/debug/res/color/date_number_text_color.xml -->

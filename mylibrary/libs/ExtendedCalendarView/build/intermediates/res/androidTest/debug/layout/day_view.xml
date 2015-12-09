@@ -87,4 +87,4 @@
             android:src="@drawable/purple" />
     </RelativeLayout>
 
-</RelativeLayout><!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/ExtendedCalendarView/res/layout/day_view.xml --><!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/ExtendedCalendarView/build/intermediates/bundles/debug/res/layout/day_view.xml -->
+</RelativeLayout><!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/mylibrary/libs/ExtendedCalendarView/res/layout/day_view.xml --><!-- From: file:/D:/ProgramFiles/Android/AndroidStudioProjects/ComprehensiveUse/mylibrary/libs/ExtendedCalendarView/build/intermediates/bundles/debug/res/layout/day_view.xml -->
