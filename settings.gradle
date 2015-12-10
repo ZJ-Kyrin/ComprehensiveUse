@@ -1,1 +1,2 @@
-include ':app', ':ExtendedCalendarView'
+include ':app', ":mylibrary"
+include ':mylibrary:libs:ExtendedCalendarView'
