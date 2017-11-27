@@ -1,2 +1,2 @@
 # ComprehensiveUse
-My android project.A poor application now,but I will add anything I learnt to it.
+My android project.A poor application now,but I will add everything I learnt to it.
